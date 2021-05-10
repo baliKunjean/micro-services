@@ -1,0 +1,6 @@
+io\microservice\models\CatalogItem.class
+io\microservice\models\Rating.class
+io\microservice\models\UserRating.class
+io\microservice\MovieCatalogResource.class
+io\microservice\MovieCatalogServiceApplication.class
+io\microservice\models\Movie.class

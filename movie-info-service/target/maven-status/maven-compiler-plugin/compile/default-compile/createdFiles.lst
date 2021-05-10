@@ -1,0 +1,4 @@
+io\microservice\MovieInfoServiceApplication.class
+io\microservice\models\MovieSummary.class
+io\microservice\MovieResource.class
+io\microservice\models\Movie.class
